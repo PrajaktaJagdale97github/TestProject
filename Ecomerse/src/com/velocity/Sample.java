@@ -6,6 +6,7 @@ public class Sample {
 		{
 			System.out.println("Value of i is>>"+i);
 		}
+		System.out.println("ouside of for loop");
 	}
 
 }
